@@ -6,7 +6,7 @@
 </head>
 <body>
 	<ul>
-		@foeach ($products as $product)
+		@foreach ($products as $product)
 			<li style="background:blue;color:white">{!! $product->name !!} - {!! $product->price !!}</li>
 		@endforeach
 	</ul>
