@@ -1,7 +1,7 @@
 {
     "name": "sunnyday/product",
     "description": ":package_description",
-    "minimum-stability" : "stable"
+    "minimum-stability" : "stable",
     "keywords": [
         "product"
     ],
