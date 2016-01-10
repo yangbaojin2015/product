@@ -29,5 +29,5 @@
         "psr-4": {
             "Sunnyday\\Product\\Test\\": "tests"
         }
-    },
+    }
 }
