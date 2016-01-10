@@ -2,10 +2,11 @@
 
 ## Install
 ``` bash
-"sunnyday/product": "0.1.*"
+"sunnyday/product": "dev-master"
+```
+``` bash
 composer update
 ```
-
 ## Usage
 
 ``` php
