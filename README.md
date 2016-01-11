@@ -9,7 +9,6 @@
 ```
 composer update
 ```
-
 3.在config/app.php 的 providers 数组加入一条
 ```
 Sunnyday\Product\ProductServiceProvider::class,
@@ -20,3 +19,5 @@ Sunnyday\Product\ProductServiceProvider::class,
 php artisan vendor:publish
 php artisan migrate
 ```
+## 访问
+xx.com/products
